@@ -1,1 +1,114 @@
-# Bhaiya-CV
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <fieldset>
+        <legend><h1>Love Babbar</h1></legend>
+        <span>Contact :</span>
+        <!-- <label for="contact">Contact :</label> -->
+        <a href="lovebabbar3@gmail.com" id="contact">lovebabbar3@gmail.com</a><br>
+        <span>LinkedIn :</span>
+        <a href="linkedin.com/in/love-babbar">linkedin.com/in/love-babbar</a><br>
+        <span>GitHub :</span>
+        <a href="github.com/lovebabbar">github.com/lovebabbar</a><br><br>
+
+        <table>
+            <tr>
+                <td><img src="Love_Bhaiya.jpg" alt="Love Babbar" width="100px" height =105px></td>
+                <td>I am a passionate Software Engineer with expertise in problem solving and algorithmic thinking
+                    . I love to explore various technologiesand framework to develop efficient and scalable solutions.
+                    With a strong foundation in data structures and algorithms, I strive to create robust and optimized.
+                    I am constantly expanding my skills and staying uo-to-date with the latest advancements in the field 
+                    of software development.</td>
+            </tr>
+        </table>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>Bachelor of Tachnology in Information Technology, Netaji Subhas Institute of technology</li>
+                <li>A.E.S.N.T Rama Rao Memorial Senior Secondary School</li>
+            </ul>
+        </section>
+        <section id="WE">
+            <h2>Work Experience</h2>
+            <h3>Software Engineer,Microsoft</h3>
+            <span>Nov 2021 - May 2022</span>
+            <ul>
+                <li>Developed and maintained web application using HTML CSS and JS </li>
+                <li>Collaborated with cross functional teams to design and implement software solution</li>
+                <li>Optimized code performance and improved application efficiency</li>
+            </ul>
+            <h3>Software Development Engineer,Amazon</h3>
+            <span>July 2019 - October 2021</span>
+            <ul>
+                <li>Assisted in developing and testing software modules</li>
+                <li>Worked on bug fixing and performance enhancement tasks</li>
+                
+            </ul>
+        </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Java</li>
+                <li>C++</li>
+                <li>Python</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>SQL</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Achievements</h2>
+            <ul>
+                <li>Service Selection Board(Recommendation letter for Officer entry in Indian Army)</li>
+                <li>Published an article on data structures in a reknowned tech magazine</li>
+            </ul>
+        </section>
+        <section>
+            <ul><h2>Projects</h2>
+                <li>
+                    <ul type="none"><h3>Library Management System</h3>
+                            <li>Library Management Application - developed a desktop application by using swing and MYSQL server.</li>
+                            <li>Hosted link : <a href="example.com/ecommerce">example.com/ecommerce</a></li>
+                            <li>Github Link : <a href="github.com/lovebabbar/ecommerce">github.com/lovebabbar/ecommerce</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <ul type="none"><h3>Friendly Chat AppFriendly</h3>
+                    
+                            <li>Friendly Chat - An Android application making use of firebase, to help people connect and chat by sending messages and images,also having login options</li>
+                            <li>Hosted Link : <a href="example.com/blog" target="_self">example.com/blog</a></li>
+                            <li>Github Link : <a href="github.com/lovebabbar/blog">github.com/lovebabbar/blog</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <ul type="none"><h3>Secure Messenger AppSecure</h3>
+
+                            <li>Secure Messenger App - An Android application to have secure communication between the sender and recepient, using a number of cryptography algorithms like AES,DES,RSA techniques for</li>
+                            <li>Hosted link : <a href="example.com/dashboard">example.com/dashboard</a></li>
+                            <li>Github link : <a href="github.com/lovebabbar/dashboard">github.com/lovebabbar/dashboard</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Frequently Asked Questions :</h2>
+            <details id="A"><summary>What is A B C D?</summary>
+               => ABCD... are letters of English alphabets.</details>
+        </section>
+        <footer>
+            <p> &copy 2023 Love Babbar. All rights reserved</p> 
+        </footer>
+    </fieldset>
+    </div>
+</body>
+</html>
